@@ -1,13 +1,13 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
+  "nome": "Willian M",
+  "titulo": "Estudante de Tecnologia",
   "localidade": {
-    "cidade": "Araraquara",
+    "cidade": "São Paulo",
     "estado": "São Paulo",
     "pais": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "telefone": "(12) 34567-8910",
+  "email": "willian@email.com",
   "skills": {
     "hardSkills": [
       {
@@ -26,7 +26,7 @@
     "softSkills": [
       "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Goleador"
     ]
   },
   "idiomas": [
@@ -49,7 +49,7 @@
       "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
-        "inicio": "2019",
+        "inicio": "2026",
         "fim": "Atualmente"
       },
       "certificados": [
