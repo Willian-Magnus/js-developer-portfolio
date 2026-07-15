@@ -1,8 +1,7 @@
 {
   "nome": "Willian M",
   "titulo": "Estudante de Tecnologia",
-  "localidade": 
-    "São Paulo - SP",
+  "localidade": "São Paulo - SP",
   "telefone": "(12) 34567-8910",
   "email": "willian@email.com",
   "skills": {
