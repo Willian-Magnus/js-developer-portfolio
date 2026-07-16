@@ -7,16 +7,16 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
-      },
-      {
-        "nome": "Java",
-        "logo": "TODO"
+        "nome": "JavaScript",
+        "logo": "/assets/img/icons/tools/js.svg"
       },
       {
         "nome": "Kotlin",
-        "logo": "TODO"
+        "logo": "/assets/img/icons/tools/kotlin.svg"
+      },
+      {
+        "nome": "Git",
+        "logo": "/assets/img/icons/tools/git.svg"
       }
     ],
     "softSkills": [
