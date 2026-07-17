@@ -13,7 +13,7 @@
       },
       {
         "nome": "Kotlin",
-        "logo": "/assets/img/icons/tools/kotlin.svg"
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg"
       },
       {
         "nome": "Git",
