@@ -1,5 +1,6 @@
 {
   "nome": "Willian M",
+  "foto": {"src":"/assets/img/minhaFoto.jpg", "alt": "Foto de Willian M"} ,
   "titulo": "Estudante de Tecnologia",
   "localidade": "São Paulo - SP",
   "telefone": "(12) 34567-8910",
