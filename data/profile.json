@@ -12,8 +12,8 @@
         "logo": "/assets/img/icons/tools/js.svg"
       },
       {
-        "nome": "Kotlin",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg"
+        "nome": "Java",
+        "logo": "/assets/img/icons/tools/java.svg"
       },
       {
         "nome": "Git",
